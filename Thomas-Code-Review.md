@@ -1,0 +1,1 @@
+I like how there is a dynamic connection to the database. In my project, I just created a LINQ to SQL class based on my database. The only major difference in functionality between this class library and mine is that I have a dynamic sort and filter method.
